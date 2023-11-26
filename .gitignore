@@ -53,3 +53,5 @@ dkms.conf
 
 # specific to project
 ws_debug
+vgcore*
+.vscode/

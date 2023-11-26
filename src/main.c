@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <workshop.h>
 
+/**
+ * @brief Something is wrong is one of these two C files. Use the vscode
+ * debugger to find the source of the problem.
+ */
 int main(void)
 {
     char **array = NULL;
